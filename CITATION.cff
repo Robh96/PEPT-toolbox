@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hart-Villamil"
+  given-names: "Roberto"
+  orcid: "https://orcid.org/0009-0004-2755-8538"
+title: "PEPT-toolbox, an experiment and simulation trajectory post-processing tool"
+version: 1.0.3
+date-released: 2023-10-24
+url: "https://github.com/Robh96/PEPT-toolbox"
