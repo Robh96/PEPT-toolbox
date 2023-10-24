@@ -3,6 +3,8 @@ Toolbox for post-processing experimental and simulated trajectories. Compatible 
 To download the toolbox navigate to PEPT-toolbox/PEPTToolbox/for_restribution and download PEPTToolboxInstaller.exe.
 Once downloaded, run the installer and it will prompt you to download Matlab runtime.
 
+![PEPTToolboxDemoImage](https://github.com/Robh96/PEPT-toolbox/assets/98417655/32b0ad25-1be1-4230-ad9d-ff2461740d14)
+
 The toolbox is capable of handling large amounts of particle trajectory data.
 The experimental data input should be a .csv file with columns |t|x|y|z|
 The data is imported via file -> import -> experimental data
@@ -25,4 +27,5 @@ Tomographies can be exported for a desired frame-rate:
   file -> export -> tomographies -> parameter of interest
 
 plot data can be exported similarly using the export functionality in file -> export.
+
 
